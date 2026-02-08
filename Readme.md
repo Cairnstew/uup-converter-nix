@@ -1,4 +1,3 @@
-````markdown
 # uup-converter (Nix package)
 
 This repository provides a **Nix package and flake** for **uup-converter**, a tool that converts Windows UUP (Unified Update Platform) downloads into installation media such as **ISO** or **WIM** images.
