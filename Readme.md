@@ -111,27 +111,3 @@ uup-converter -i ./uup_download -w ./install.wim
 * This package **wraps** the upstream tool; it does not modify behavior beyond providing dependencies.
 
 ---
-
-## Bugs and maintenance
-
-* **Packaging issues:** file issues in this repository
-* **Tool bugs or feature requests:** use the upstream project’s issue tracker
-
----
-
-## Tests
-
-No automated tests are included. Validation is expected by running the tool and testing generated artifacts.
-
-```
-
----
-
-✅ **Key improvements:**  
-
-1. Flake usage is **highlighted first**, legacy usage is secondary.  
-2. Markdown is more concise and easier to scan.  
-3. Repetitive info (like “input directory must contain UUP files”) is shorter.  
-4. Notes are clearer and actionable.  
-
----
